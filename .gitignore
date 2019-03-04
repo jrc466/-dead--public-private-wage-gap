@@ -1,0 +1,12 @@
+*.Rout
+*~
+*.Rhistory
+*.qsub.e*
+*.qsub.o*
+/sample
+*#
+*.Rmd
+*.log
+*.md
+*.RData
+
